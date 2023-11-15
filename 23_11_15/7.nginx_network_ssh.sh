@@ -25,7 +25,12 @@ nc -zv naver.com 443 넷켓()
 telnet
 
 
-netstat : 현재 서버에 연결되 네트워크 정보 출력
-ssh : 원격 호스트와 터미널 세션을 제공 ex)ssh [username]@hostname/IP]
-scp : 파일 전송 ex)scp [source][destination]
+netstat : 현재 서버에 연결되 네트워크 정보 출력 [상대방이 나에게 메시지 잘 보냈나 확인]
+ssh : 원격 호스트[서버기계]와 터미널 세션[중계]을 제공 ex ssh [[username]@hostname/IP]
+    => 
+scp : 파일 전송 exscp [source][destination]
+    => 
+
+
+
 
