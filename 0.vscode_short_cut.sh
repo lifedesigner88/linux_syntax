@@ -1,3 +1,14 @@
+Ctrl + B        //  왼쪽 메뉴창 열기
+ctrl + P        //  파일 열기 
+
+Ctrl + Shift + L    // 전체 줄 복사
+Ctrl + Shift + K    // 전체 줄 삭제
+
+Ctrl + L        // 전체 라인 선택
+
+
+
+
 파일 열기: Ctrl + P
 현재 열려있는 파일 닫기 : Ctrl + W
 열려있는 모든 파일 닫기 : Ctrl + Shift + W
@@ -21,10 +32,3 @@ Ctrl + Shift + [ or ] : 코드를 왼쪽( [ ) 혹은 오른쪽( ] )으로 들여
 
 
 
-Ctrl + B        //  왼쪽 메뉴창 열기
-ctrl + P        //  파일 열기 
-
-Ctrl + Shift + L    // 전체 줄 복사
-Ctrl + Shift + K    // 전체 줄 삭제
-
-Ctrl + L        // 전체 라인 선택
