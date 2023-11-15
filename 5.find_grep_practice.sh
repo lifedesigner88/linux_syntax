@@ -19,8 +19,6 @@ find
 
 
 # 파일이나 디렉토리를 
-
-
 find . -name "*.txt" 
 
 
